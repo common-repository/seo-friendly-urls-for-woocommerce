@@ -1,0 +1,222 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2020-11-26 12:01+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: seo-friendly-urls-for-woocommerce.php:61
+msgid " in order to work."
+msgstr ""
+
+#: inc/backend/footer.php:19
+msgid " SEO-friendly URLs for WooCommerce"
+msgstr ""
+
+#: inc/backend/footer.php:19
+msgid " thank you in advance!"
+msgstr ""
+
+#: inc/backend/page.php:40
+msgid " to change the setting."
+msgstr ""
+
+#: inc/backend/footer.php:19
+msgid ", please"
+msgstr ""
+
+#: inc/backend/footer.php:19
+msgid ". A "
+msgstr ""
+
+#: inc/backend/page.php:332
+msgid "Additional options"
+msgstr ""
+
+#: inc/backend/page.php:11
+msgid "Available on Premium Version"
+msgstr ""
+
+#: inc/backend/page.php:128
+msgid "Categories option"
+msgstr ""
+
+#: inc/backend/page.php:154
+msgid "Category slug only"
+msgstr ""
+
+#: inc/backend/page.php:38
+msgid "click here"
+msgstr ""
+
+#: inc/backend/page.php:346
+msgid "Click to enable canonical meta tag to duplicated pages"
+msgstr ""
+
+#: inc/backend/page.php:280
+msgid "Click to enable URL's suffix for categories"
+msgstr ""
+
+#: inc/backend/page.php:251
+msgid "Click to enable URL's suffix for products"
+msgstr ""
+
+#: inc/backend/page.php:308
+msgid "Click to enable URL's suffix for tags"
+msgstr ""
+
+#: inc/backend/page.php:366
+msgid "Click to enable Yoast SEO's primary category to build product path"
+msgstr ""
+
+#: inc/backend/page.php:66 inc/backend/page.php:140 inc/backend/page.php:196
+msgid "Default WooCommerce option"
+msgstr ""
+
+#: inc/backend/page.php:392
+msgid "Found a bug? Please"
+msgstr ""
+
+#: inc/backend/page.php:389
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: inc/backend/page.php:391
+msgid ""
+"Frequently Asked QuestionsIf your answer can not be found in the resources "
+"listed above, please create a support ticket"
+msgstr ""
+
+#: inc/backend/page.php:170
+msgid "Full category path"
+msgstr ""
+
+#: inc/backend/page.php:114
+msgid "Full product path"
+msgstr ""
+
+#: inc/backend/page.php:391
+msgid "here"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.themeinwp.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.themeinwp.com/plugin/seo-friendly-urls-for-woocommerce/"
+msgstr ""
+
+#: inc/backend/footer.php:19
+msgid "huge"
+msgstr ""
+
+#: inc/backend/footer.php:19
+msgid "If you like using"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Is your WooCommerce shop URLs SEO friendly? Are you taking advantage of all "
+"optimization techniques to maximize the visibility of your online store to "
+"search engines? You can create SEO Friendly Product URLs using \"SEO-"
+"friendly URLs for WooCommerce\" - the most advanced and easy to use "
+"permalink manager plugin for WooCommerce."
+msgstr ""
+
+#: inc/backend/page.php:388
+msgid "Knowledge Base"
+msgstr ""
+
+#: inc/backend/footer.php:19
+msgid "leave us a rating"
+msgstr ""
+
+#: inc/backend/page.php:385
+msgid "Looking for help?"
+msgstr ""
+
+#: inc/backend/page.php:392
+msgid "open an issue on GitHub"
+msgstr ""
+
+#: inc/backend/page.php:36
+msgid ""
+"Plain option is selected under Common Settings. SEO-friendly URLs for "
+"WooCommerce requires this option to be changed. Please "
+msgstr ""
+
+#: inc/backend/page.php:80
+msgid "Product slug only"
+msgstr ""
+
+#: inc/backend/page.php:96
+msgid "Product slug with primary category"
+msgstr ""
+
+#: inc/backend/page.php:54
+msgid "Products option"
+msgstr ""
+
+#: inc/backend/page.php:378
+msgid "Save Settings"
+msgstr ""
+
+#. Name of the plugin
+#: inc/backend/page.php:18
+msgid "SEO-friendly URLs for WooCommerce"
+msgstr ""
+
+#: inc/backend/page.php:27
+msgid ""
+"SEO-friendly URLs for WooCommerce is a most advanced and easy to use "
+"permalink manager plugin that helps WordPress users to create a custom URL "
+"structure for your WooCommerce permalinks."
+msgstr ""
+
+#: seo-friendly-urls-for-woocommerce.php:61
+msgid ""
+"SEO-friendly URLs for WooCommerce is enabled but not effective. It requires "
+msgstr ""
+
+#: inc/backend/page.php:26
+msgid "SEO-friendly URLs for WooCommerce: options"
+msgstr ""
+
+#: seo-friendly-urls-for-woocommerce.php:71
+msgid "Settings"
+msgstr ""
+
+#: inc/backend/page.php:230
+msgid "Specify suffix for your urls. For example .html"
+msgstr ""
+
+#: inc/backend/page.php:209
+msgid "Tag slug Only"
+msgstr ""
+
+#: inc/backend/page.php:184
+msgid "Tags  option"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeInWP"
+msgstr ""
+
+#: inc/backend/page.php:223
+msgid "URL's suffix option"
+msgstr ""
+
+#: inc/backend/page.php:386
+msgid "We have some resources available to help you in the right direction."
+msgstr ""
+
+#: seo-friendly-urls-for-woocommerce.php:61
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/backend/page.php:17
+msgid "You are here:"
+msgstr ""
